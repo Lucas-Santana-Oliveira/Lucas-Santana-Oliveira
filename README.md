@@ -3,7 +3,7 @@
 ### È Muito bom em vê-lo por aqui!, fique á vontade para olha o que precisa.🙂
 ## desenvolvedor full Stack
 
-## contato
+## Redes Sociais
 <p align="left">
 
 <a href="https://linkedin.com/in/https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logocolor=white)](https://www.linkedin.com/in/lucas-santana-8570011b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logocolor=white)](https://www.linkedin.com/in/lucas-santana-8570011b9/" height="30" width="40" /></a>
