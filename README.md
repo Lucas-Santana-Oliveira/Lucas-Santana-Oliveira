@@ -2,7 +2,7 @@
 
 ###
 
-< [Recriando o jogo da cobrinha com JavaScript] https://github.com/Lucas-Santana-Oliveira/project/recriando-o-jogo-da-cobrinha-com-javascript/learning/bfcd37b9-4ccf-40fb-b0ea-c2d865414a19?back=/track/html-web-developer&tab=undefined&moduleId=undefined>
+<https://github.com/Lucas-Santana-Oliveira/project/recriando-o-jogo-da-cobrinha-com-javascript/learning/bfcd37b9-4ccf-40fb-b0ea-c2d865414a19?back=/track/html-web-developer&tab=undefined&moduleId=undefined>
 
 <br style="clear:both;">
 <img src="https://github.com/Lucas-Santana-Oliveira/assets/raw/44561610/33bdfb39-ffe2-4133-8716-8da8c8587e3b" style="width: 100%; margin-bottom: 50px;">
