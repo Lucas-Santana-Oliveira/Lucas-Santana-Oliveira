@@ -1,27 +1,72 @@
-### Seja bem-vindo 👋
+<h1 align="center">Seja bem-vindo 👋</h1>
 
-### È Muito bom em vê-lo por aqui!, fique á vontade para olha o que precisa.🙂
-## desenvolvedor full Stack
+###
 
-## Redes Sociais
-<p align="left">
+<br clear="both">
 
-<a href="https://linkedin.com/in/https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logocolor=white)](https://www.linkedin.com/in/lucas-santana-8570011b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logocolor=white)](https://www.linkedin.com/in/lucas-santana-8570011b9/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://img.shields.io/badge/instagram-e4405f?style=for-the-badge&logo=instagram&logocolor=white)](https://www.instagram.com/lukaznoc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://img.shields.io/badge/instagram-e4405f?style=for-the-badge&logo=instagram&logocolor=white)](https://www.instagram.com/lukaznoc/" height="30" width="40" /></a>
-</p>
+<p align="center">È Muito bom em vê-lo por aqui!, fique á vontade para olha o que precisa.🙂<br><br>Sinta-se à vontade para explorar o que precisar. Sou um desenvolvedor Full Stack pronto para enfrentar desafios e criar soluções inovadoras.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=l3c4s&label=Profile%20views&color=0e75b6&style=flat" alt="l3c4s" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l3c4s" alt="l3c4s" /></a> </p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="typescript logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="react logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" alt="nodejs logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" alt="docker logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42" alt="mongodb logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="postgresql logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42" alt="nextjs logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="42" alt="tailwindcss logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="42" alt="bootstrap logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="42" alt="sass logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openal/openal-original.svg" height="42" alt="openal logo"  />
+</div>
 
-<h3 align="left">Connect with me:</h3>
+###
 
+<br clear="both">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=l3c4s&show_icons=true&locale=en&layout=compact" alt="l3c4s" /></p>
+<div align="center">
+  <a href="https://open.spotify.com/user/31zlrj7kpcq4invtkqjz3gvthlve">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zlrj7kpcq4invtkqjz3gvthlve&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=l3c4s&show_icons=true&locale=en" alt="l3c4s" /></p>
+###
 
+<div align="left">
+</div>
 
+###
+
+<div align="left">
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
 
 
 
