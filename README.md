@@ -1,11 +1,7 @@
 <h1 align="center">Seja bem-vindo 👋</h1>
 
-###
-
-<https://github.com/Lucas-Santana-Oliveira/project/recriando-o-jogo-da-cobrinha-com-javascript/learning/bfcd37b9-4ccf-40fb-b0ea-c2d865414a19?back=/track/html-web-developer&tab=undefined&moduleId=undefined> 
-
 <br> 
-<p align="center">È Muito bom em vê-lo por aqui!, fique á vontade para olha o que precisa.🙂<br><br>Sinta-se à vontade para explorar o que precisar. Sou um desenvolvedor Full Stack pronto para enfrentar desafios e criar soluções inovadoras.</p>
+<p align="center"> <b> È Muito bom em vê-lo por aqui!, fique á vontade para olha o que precisa.🙂<br><br>Sinta-se à vontade para explorar o que precisar. Sou um desenvolvedor Full Stack pronto para enfrentar desafios e criar soluções inovadoras. </b></p>
 
 ###
 
